@@ -12,4 +12,5 @@ This program had a simple user interface that takes user input(first name, last 
 * I will be adding to the functionality of the program as the ideas come to me.
 
 # Images
-Screenshots/HomePage.PNG
+![alt text](https://github.com/McGuire00/Birthday-Tracker/blob/main/screenshots/Main.png)
+
