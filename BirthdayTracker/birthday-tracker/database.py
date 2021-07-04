@@ -11,10 +11,6 @@ days_in_year = 365.2425
 database = sqlite3.connect('Birthdays.db')
 cursor = database.cursor()
 
-Top_Frame_Color = "#E2C391"
-Main_Background_Color = "#A8B7AB"
-Calendar_Color = "#E4C99C"
-
 
 #Create Birthday Database
 try:
