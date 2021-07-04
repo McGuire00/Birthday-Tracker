@@ -10,3 +10,6 @@ This program had a simple user interface that takes user input(first name, last 
 
 # Extra remarks
 * I will be adding to the functionality of the program as the ideas come to me.
+
+# Images
+Screenshots/HomePage.PNG
