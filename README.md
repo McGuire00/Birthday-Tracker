@@ -13,4 +13,6 @@ This program had a simple user interface that takes user input(first name, last 
 
 # Images
 ![alt text](https://github.com/McGuire00/Birthday-Tracker/blob/main/screenshots/Main.png)
+![alt text](https://github.com/McGuire00/Birthday-Tracker/blob/main/screenshots/AddUser.png)
+![alt text](https://github.com/McGuire00/Birthday-Tracker/blob/main/screenshots/HomePage.png)
 
