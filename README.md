@@ -7,3 +7,6 @@ This program had a simple user interface that takes user input(first name, last 
 # How to run
 * Run the requirements.txt file to get Pyside6 or pip install it, the choice is yours.
 * Run main.py
+
+# Extra remarks
+* I will be adding to the functionality of the program as the ideas come to me.
