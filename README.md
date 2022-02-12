@@ -16,3 +16,7 @@ This program had a simple user interface that takes user input(first name, last 
 ![alt text](https://github.com/McGuire00/Birthday-Tracker/blob/main/screenshots/AddUser.png)
 ![alt text](https://github.com/McGuire00/Birthday-Tracker/blob/main/screenshots/HomePage.png)
 
+
+# Extra
+* Will be going through this project and cleaning some of the code and making the project better.
+
